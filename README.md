@@ -1,1 +1,1 @@
-# go
+# Learning sample for Golang
