@@ -1,4 +1,4 @@
-module web-service-gin
+module github.com/bongboy/go/web-service-gin
 
 go 1.19
 
